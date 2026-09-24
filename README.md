@@ -1,4 +1,4 @@
-# SGD — Stellar Galaxy Dock 🚀
+# SGD — Stellar Gravity Dock 🚀
 
 A macOS-style application dock for Linux, built with C++ and Qt6.
 
