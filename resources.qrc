@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/launcher">
+        <file alias="stellar-lanzador.png">launcher/stellarlauncher/icons/stellar-lanzador.png</file>
+    </qresource>
+</RCC>

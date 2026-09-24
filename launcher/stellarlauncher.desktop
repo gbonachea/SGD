@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Stellar Launcher
+Comment=Application launcher and power control for SGD (Stellar Galaxy Dock)
+Exec=stellar-launcher
+Icon=stellar-launcher
+Categories=Utility;System;
+Terminal=false
+StartupNotify=false
